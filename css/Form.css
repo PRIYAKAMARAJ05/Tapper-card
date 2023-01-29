@@ -30,7 +30,7 @@ body {
 @media only screen and (min-width: 1200px){
         .container {
             /* z-index: 2; */
-            background-color: #fff;
+            background-color: rgb(8, 200, 243);
             width: 80vw;
             height: 860px;
             border-radius: 5px;
