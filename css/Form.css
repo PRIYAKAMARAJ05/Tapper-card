@@ -14,8 +14,7 @@ body {
             /* background: url(https://guidetoiceland.imgix.net/469993/x/0/.jpg?auto=format%2Ccompress&fit=crop&crop=faces%2Cedges%2Ccenter&ixlib=react-8.6.4&h=610&q=35&dpr=1);
             background-repeat: no-repeat;
             background-size: cover; */
-    /* font-family: 'Open Sans', sans-serif; */
-    font-family: 'Georgia' , sans-serif;
+    font-family: 'Open Sans', sans-serif;
             /* height: 100vh; */
             /* display: flex;
             justify-content: center;
@@ -75,7 +74,7 @@ body {
             padding: 10px;
             border-radius: 5px;
             outline: none;
-            border: 2px solid black;
+            border: 2px solid #f0f0f0;
         }
 
         .form-control i {
