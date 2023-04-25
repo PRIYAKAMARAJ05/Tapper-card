@@ -454,7 +454,7 @@ body {
 @media only screen and (max-width: 600px) {
     .container {
         /* z-index: 2; */
-        background-color: #fff;
+        background-color: #2f111b;
         width: 80vw;
         height: 660px;
         border-radius: 5px;
