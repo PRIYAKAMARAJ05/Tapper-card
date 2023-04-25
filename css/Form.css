@@ -244,7 +244,7 @@ body {
 @media only screen and (min-width: 768px) {
     .container {
         /* z-index: 2; */
-        background-color: #fff;
+        background-color: black;
         width: 80vw;
         height: 660px;
         border-radius: 5px;
@@ -257,7 +257,7 @@ body {
     }
     .header {
         background-color: black;
-        color: black;
+        color: white;
     }
 
     .header h2 {
