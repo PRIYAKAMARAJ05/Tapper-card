@@ -286,7 +286,7 @@ body {
         padding: 10px;
         border-radius: 5px;
         outline: none;
-        border: 2px solid #f0f0f0;
+        border: 2px solid black;
     }
 
     .form-control i {
@@ -349,7 +349,7 @@ body {
 @media only screen and (min-width: 600px){
     .container {
         /* z-index: 2; */
-        background-color: black;
+        background-color: #100501;
         width: 80vw;
         height: 660px;
         border-radius: 5px;
