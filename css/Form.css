@@ -257,7 +257,7 @@ body {
     }
     .header {
         background-color: black;
-        color: white;
+        color: black;
     }
 
     .header h2 {
@@ -286,7 +286,7 @@ body {
         padding: 10px;
         border-radius: 5px;
         outline: none;
-        border: 2px solid black;
+        border: 2px solid #f0f0f0;
     }
 
     .form-control i {
