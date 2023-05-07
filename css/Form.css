@@ -138,7 +138,7 @@ body {
 @media only screen and (min-width: 992px){
     .container {
         /* z-index: 2; */
-        background-color: rgb(17, 16, 16);
+        background-color: rgb(246, 239, 239);
         width: 80vw;
         height: 660px;
         border-radius: 5px;
