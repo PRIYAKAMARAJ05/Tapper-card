@@ -31,7 +31,7 @@ body {
             /* z-index: 2; */
             background-color: #fff;
             width: 80vw;
-            height: 300px;
+            height: 660px;
             border-radius: 5px;
             overflow: hidden;
             /* margin-top: 3px;
@@ -48,7 +48,7 @@ body {
         }
 
         .header h2 {
-            padding: 10px;
+            padding: 20px;
             text-align: center;
         }
 
@@ -69,7 +69,7 @@ body {
 
         .form-control input {
             display: block;
-            width: 100%;
+            width: 50%;
             padding: 10px;
             border-radius: 5px;
             outline: none;
@@ -139,7 +139,7 @@ body {
         /* z-index: 2; */
         background-color: #fff;
         width: 80vw;
-        height: 300px;
+        height: 660px;
         border-radius: 5px;
         overflow: hidden;
         /* margin-top: 3px;
@@ -154,7 +154,7 @@ body {
     }
 
     .header h2 {
-        padding: 10px;
+        padding: 20px;
         text-align: center;
     }
 
@@ -175,7 +175,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 100%;
+        width: 50%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
@@ -244,7 +244,7 @@ body {
         /* z-index: 2; */
         background-color: #fff;
         width: 80vw;
-        height: 300px;
+        height: 660px;
         border-radius: 5px;
         overflow: hidden;
         /* margin-top: 3px;
@@ -259,7 +259,7 @@ body {
     }
 
     .header h2 {
-        padding: 10px;
+        padding: 20px;
         text-align: center;
     }
 
@@ -280,7 +280,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 100%;
+        width: 50%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
@@ -349,7 +349,7 @@ body {
         /* z-index: 2; */
         background-color: #fff;
         width: 80vw;
-        height: 300px;
+        height: 660px;
         border-radius: 5px;
         overflow: hidden;
         /* margin-top: 3px;
@@ -364,7 +364,7 @@ body {
     }
 
     .header h2 {
-        padding: 10px;
+        padding: 20px;
         text-align: center;
     }
 
@@ -385,7 +385,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 100%;
+        width: 50%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
@@ -454,7 +454,7 @@ body {
         /* z-index: 2; */
         background-color: #fff;
         width: 80vw;
-        height: 300px;
+        height: 660px;
         border-radius: 5px;
         overflow: hidden;
         /* margin-top: 3px;
@@ -469,7 +469,7 @@ body {
     }
 
     .header h2 {
-        padding: 10px;
+        padding: 20px;
         text-align: center;
     }
 
@@ -490,7 +490,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 100%;
+        width: 50%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
