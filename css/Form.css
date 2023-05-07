@@ -348,7 +348,7 @@ body {
 @media only screen and (min-width: 600px){
     .container {
         /* z-index: 2; */
-        background-color: #100501;
+        background-color: hsl(12, 16%, 94%);
         width: 80vw;
         height: 660px;
         border-radius: 5px;
@@ -360,7 +360,7 @@ body {
         box-shadow: lightslategray;
     }
     .header {
-        background-color: rgb(244, 239, 239);
+        background-color: rgb(11, 11, 11);
         color: white;
     }
 
@@ -453,7 +453,7 @@ body {
 @media only screen and (max-width: 600px) {
     .container {
         /* z-index: 2; */
-        background-color: #2f111b;
+        background-color: hwb(340 94% 4%);
         width: 80vw;
         height: 660px;
         border-radius: 5px;
