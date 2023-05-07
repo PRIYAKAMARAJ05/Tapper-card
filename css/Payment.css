@@ -53,7 +53,7 @@ body {
         }
 
         .form {
-            padding: 20px 30px;
+            padding: 10px 10px;
         }
 
         .form-control {
@@ -69,7 +69,7 @@ body {
 
         .form-control input {
             display: block;
-            width: 50%;
+            width: 100%;
             padding: 10px;
             border-radius: 5px;
             outline: none;
@@ -159,7 +159,7 @@ body {
     }
 
     .form {
-        padding: 20px 30px;
+        padding: 10px 10px;
     }
 
     .form-control {
@@ -175,7 +175,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 50%;
+        width: 100%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
@@ -264,7 +264,7 @@ body {
     }
 
     .form {
-        padding: 20px 30px;
+        padding: 10px 10px;
     }
 
     .form-control {
@@ -280,7 +280,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 50%;
+        width: 100%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
@@ -369,7 +369,7 @@ body {
     }
 
     .form {
-        padding: 20px 30px;
+        padding: 10px 10px;
     }
 
     .form-control {
@@ -385,7 +385,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 50%;
+        width: 100%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
@@ -474,7 +474,7 @@ body {
     }
 
     .form {
-        padding: 20px 30px;
+        padding: 10px 10px;
     }
 
     .form-control {
@@ -490,7 +490,7 @@ body {
 
     .form-control input {
         display: block;
-        width: 50%;
+        width: 100%;
         padding: 10px;
         border-radius: 5px;
         outline: none;
