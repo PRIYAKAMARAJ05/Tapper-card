@@ -360,7 +360,7 @@ body {
         box-shadow: lightslategray;
     }
     .header {
-        background-color: black;
+        background-color: rgb(244, 239, 239);
         color: white;
     }
 
